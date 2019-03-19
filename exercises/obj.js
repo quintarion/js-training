@@ -32,3 +32,4 @@ assert.strictEqual(obj.bool, false)
 assert.strictEqual(typeof obj.undef, 'undefined')
 assert.strictEqual(obj.undef, undefined)
 // End of tests */
+
